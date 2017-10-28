@@ -4,6 +4,8 @@
 font-family: 'Montserrat', sans-serif;
  */
 
+ /* estilos reutilizados */
+
  .text-uppercase{
  	text-transform: uppercase;
  }
@@ -17,6 +19,8 @@ font-family: 'Montserrat', sans-serif;
   vertical-align: middle;
  }
 
+
+/*estilos del header*/
  header{
  	width: 100%;
  }
@@ -61,6 +65,7 @@ font-family: 'Montserrat', sans-serif;
 	color: #18bc9c;
 }
 
+/*estilos del slider*/
 #slider{
 	width: auto;
 	height: 800px;
@@ -140,6 +145,7 @@ font-family: 'Montserrat', sans-serif;
 	margin-top: 23px;
 }
 
+/*estilos del portafolio*/
 #portafolio{
 	width: 100%;
 	height: 900px;
@@ -190,6 +196,7 @@ font-family: 'Montserrat', sans-serif;
 	margin-top: 20px;
 }
 
+/*estilos del about*/
 #about{
 	background-color: #18bc9c;
 	width: auto;
@@ -269,6 +276,7 @@ font-family: 'Montserrat', sans-serif;
 	transition: all .3s ease-in-out;
 }
 
+/*estilos de contacto*/
 #contact{
 	width: auto;
 	height: 900px;
@@ -308,6 +316,7 @@ label{
     color: #2c3e50;
 }
 
+/*estilos del formulario*/
 #contact form{
 	margin-left: 290px;
 	padding-top: 30px;
@@ -347,6 +356,7 @@ label{
 	transition: all .3s ease-in-out;
 }
 
+/*estilos del footer*/
 footer{
 	width: auto;
 	height: 305px;
